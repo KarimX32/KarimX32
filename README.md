@@ -57,4 +57,4 @@ Maybe grab a drink and come chill with us!
   <img src="https://visitor-badge.glitch.me/badge?page_id=KarimX32" alt="visitor badge"/>
 </p>
 
-Credits: [WarenGonzaga](https://github.com/WarenGonzaga)
+
