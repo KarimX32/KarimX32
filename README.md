@@ -6,7 +6,7 @@
   <a href="https://discord.gg/Qk6j2fpeat"><img alt="Discord" title="Discord" src="https://img.shields.io/badge/-Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white"/></a>
   <a href="https://npmjs.com/package/ultrax"><img alt="Npm" title="Npm" src="https://img.shields.io/badge/-Npm Package-yellow?style=for-the-badge&logo=npm&logoColor=white"/></a>
   <a href="https://instagram.com/ultrax.1"><img alt="Instagram" title="Instagram" src="https://img.shields.io/badge/-Instagram-E1306C?style=for-the-badge&logo=instagram&logoColor=white"/></a>
-  <a href="https://www.youtube.com/c/UltraX"><img alt="Youtube" title="Youtube" src="https://img.shields.io/badge/-Youtube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"/></a>
+  <a href="https://www.youtube.com/c/UltraX1"><img alt="Youtube" title="Youtube" src="https://img.shields.io/badge/-Youtube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"/></a>
    
   
   
