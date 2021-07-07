@@ -2,11 +2,11 @@
 
 I'm UltraX the guy who make videos on youtuber teaching people how to create their own discord bot!
 
-- :muscle: Currently creating discord bots and small projects.
-- :gift_heart: Owner of UltraX Bot, UltraX Package and UltraX Youtube channel.
-- :coffee: Coffee lover, turning it into code, [you can buy me a coffee](https://buymeacoff.ee/warengonzaga)!
-- :trophy: 2021 Goals: Reaching 5K subscribers on [Youtube](https://youtube.com/UltraX1).
-- :dart: Wasting my time to save other people's time.
+- :muscle:  Currently creating discord bots and small projects.
+- :gift_heart:  Owner of UltraX Bot, UltraX Package and UltraX Youtube channel.
+- ✊ Not perfect, but i'll be one day.
+- :trophy:  2021 Goals: Reaching 5K subscribers on [Youtube](https://youtube.com/UltraX1).
+- :dart:  Wasting my time to save other people's time.
 
 
 ## :wrench: Interests
