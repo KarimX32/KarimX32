@@ -28,10 +28,6 @@ Maybe grab a drink and come chill with us!
 
 
 
-## 📱 Socials
-[Business Email]: ultraxcontact@gmail.com
-[Instagram]: https://instagram.com/ultrax.1
-[Youtube]: https://youtube.com/UltraX1
 
 ----
 
