@@ -32,9 +32,13 @@ Maybe grab a drink and come chill with us!
 
 ## :headphones: Spotify Playing
 
-[![French Music](https://img.shields.io/badge/Programming%20Music-%231DB954.svg?&style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/playlist/4lXj9sCSFc6q6BxIiRKMVC?si=cbe4d88f8d2a4a96) [![Relaxing Music](https://img.shields.io/badge/KPOP%20Music-%231DB954.svg?&style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/playlist/3nefUccOcypMsYYzcKrSnL?si=d5e2c0b91ecf4fa0)
+[![French Music](https://img.shields.io/badge/French%20Music-%231DB954.svg?&style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/playlist/4lXj9sCSFc6q6BxIiRKMVC?si=cbe4d88f8d2a4a96) [![Relaxing Music](https://img.shields.io/badge/Relaxing%20Music-%231DB954.svg?&style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/playlist/3nefUccOcypMsYYzcKrSnL?si=d5e2c0b91ecf4fa0)
 
 
 ----
+
+<p align='center'>
+  <img src="https://visitor-badge.glitch.me/badge?page_id=KarimX32.KarimX32" alt="visitor badge"/>
+</p>
 
 Credits: [WarenGonzaga](https://github.com/WarenGonzaga)
