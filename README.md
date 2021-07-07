@@ -17,7 +17,7 @@ I'm UltraX the guy who make videos on youtuber teaching people how to create the
 
 Maybe grab a drink and come chill with us!
 
-[![Community](https://discordapp.com/api/guilds/659684980137656340/widget.png?style=banner2)](https://bmc.xyz/warengonzaga)
+[![Community](https://discordapp.com/api/guilds/716216764769239083/widget.png?style=banner2)](https://discord.gg/Qk6j2fpeat)
 
 ---
 
