@@ -5,7 +5,7 @@
 <p align="center">
   <a href="https://www.youtube.com/c/UltraX"><img alt="Youtube" title="Youtube" src="https://img.shields.io/badge/-Youtube-red?style=for-the-badge&logo=youtube&logoColor=white"/></a>
    
-  <a href="https://discord.gg/Qk6j2fpeat"><img alt="Discord" title="Discord" src="https://img.shields.io/badge/-Discord-blurple?style=for-the-badge&logo=discord&logoColor=white"/></a>
+  <a href="https://discord.gg/Qk6j2fpeat"><img alt="Discord" title="Discord" src="https://img.shields.io/badge/-Discord-#406da2?style=for-the-badge&logo=discord&logoColor=white"/></a>
   
 </p>
 
