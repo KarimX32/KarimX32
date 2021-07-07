@@ -19,14 +19,20 @@ Maybe grab a drink and come chill with us!
 
 [![Community](https://discordapp.com/api/guilds/716216764769239083/widget.png?style=banner2)](https://discord.gg/Qk6j2fpeat)
 
----
+
+## My Activities
+
+<a href="https://github.com/KarimX32/github-readme-stats">
+  <img width=450 height=170 align="center" src="https://github-readme-stats.vercel.app/api?username=KarimX32&theme=midnight-purple&show_icons=true&bg_color=0D1117&hide_border=true" />
+</a>
+<a href="https://github.com/KarimX32/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KarimX32&theme=midnight-purple&layout=compact&bg_color=0D1117&hide_border=true" />
+</a>
 
 
 ## :headphones: Spotify Playing
 
 [![French Music](https://img.shields.io/badge/Programming%20Music-%231DB954.svg?&style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/playlist/4lXj9sCSFc6q6BxIiRKMVC?si=cbe4d88f8d2a4a96) [![Relaxing Music](https://img.shields.io/badge/KPOP%20Music-%231DB954.svg?&style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/playlist/3nefUccOcypMsYYzcKrSnL?si=d5e2c0b91ecf4fa0)
-
-
 
 
 ----
