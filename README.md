@@ -24,6 +24,7 @@ I'm UltraX the guy who make videos on youtuber teaching people how to create the
 - :dart:  Wasting my time to save other people's time.
 - 🖥  Save up to 1000USD to build a new PC [Donate 270/1000](https://ultrax-yt.com/paypal)
 
+DM on discord for custom bots!
 
 ## :wrench: Interests
 
