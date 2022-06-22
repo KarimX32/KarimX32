@@ -22,8 +22,10 @@ I'm UltraX the guy who make videos on youtuber teaching people how to create the
 - ✊ Not perfect, but i'll be one day.
 - :trophy:  2022 Goals: Reaching 5K subscribers on [Youtube](https://youtube.com/UltraX1).
 - :dart:  Wasting my time to save other people's time.
-- 🖥  Save up to 1000USD to build a new PC [Donate 270/1000](https://ultrax-yt.com/paypal)
+- 🖥  Save up to 500USD to build a new PC [Donate 350/500](https://ultrax-yt.com/paypal)
 
+
+Business Email: contact@ultrax-yt.com
 DM on discord for custom bots!
 
 ## :wrench: Interests
