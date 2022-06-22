@@ -25,7 +25,7 @@ I'm UltraX the guy who make videos on youtuber teaching people how to create the
 - 🖥  Save up to 500USD to build a new PC [Donate 350/500](https://ultrax-yt.com/paypal)
 
 
-Business Email: contact@ultrax-yt.com
+Business Email: contact@ultrax-yt.com<br>
 DM on discord for custom bots!
 
 ## :wrench: Interests
