@@ -19,10 +19,9 @@ I'm UltraX the guy who make videos on youtuber teaching people how to create the
 
 - :muscle:  Currently creating discord bots and small projects.
 - :gift_heart:  Owner of UltraX Bot, UltraX Package and UltraX Youtube channel.
-- ✊ Not perfect, but i'll be one day.
-- :trophy:  2022 Goals: Reaching 5K subscribers on [Youtube](https://youtube.com/UltraX1).
+- ✊ Knowledge & Gym rat.
+- :trophy:  2023 Goals: Reaching 5K subscribers on [Youtube](https://youtube.com/UltraX1).
 - :dart:  Wasting my time to save other people's time.
-- 🖥  Save up to 500USD to build a new PC [Donate 350/500](https://ultrax-yt.com/paypal)
 
 
 Business Email: contact@ultrax-yt.com<br>
