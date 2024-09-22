@@ -3,7 +3,7 @@
 <h3 align="center">Hey there, I'm <a href="https://youtube.com/UltraX1">UltraX</a><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="28"/></h3>
 
 <p align="center">
-  <a href="https://discord.gg/Qk6j2fpeat"><img alt="Discord" title="Discord" src="https://img.shields.io/badge/-Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white"/></a>
+  <a href="https://discord.gg/ultrax-kingdom-716216764769239083"><img alt="Discord" title="Discord" src="https://img.shields.io/badge/-Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white"/></a>
   <a href="https://npmjs.com/package/ultrax"><img alt="Npm" title="Npm" src="https://img.shields.io/badge/-Npm Package-yellow?style=for-the-badge&logo=npm&logoColor=white"/></a>
   <a href="https://instagram.com/ultrax.1"><img alt="Instagram" title="Instagram" src="https://img.shields.io/badge/-Instagram-E1306C?style=for-the-badge&logo=instagram&logoColor=white"/></a>
   <a href="https://www.youtube.com/c/UltraX1"><img alt="Youtube" title="Youtube" src="https://img.shields.io/badge/-Youtube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"/></a>
@@ -17,14 +17,14 @@
 
 I'm UltraX the guy who make videos on youtuber teaching people how to create their own discord bot!
 
-- :muscle:  Currently creating discord bots and small projects.
-- :gift_heart:  Owner of UltraX Bot, UltraX Package and UltraX Youtube channel.
+- :muscle:  Studying engineering & managing businesses
+- :gift_heart:  Owner of Piclaro, Motoshoot and UltraX Youtube channel.
 - ✊ Knowledge & Gym rat.
-- :trophy:  2023 Goals: Reaching 5K subscribers on [Youtube](https://youtube.com/UltraX1).
-- :dart:  Wasting my time to save other people's time.
+- :trophy:  2025 Goals: Reaching 5K subscribers on [Youtube](https://youtube.com/UltraX1).
+- :dart:  Success is going from failure to failure without giving up.
 
 
-Business Email: contact@ultrax-yt.com<br>
+Business Email: ultraxcontact@gmail.com<br>
 DM on discord for custom bots!
 
 ## :wrench: Interests
