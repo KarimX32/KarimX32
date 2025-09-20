@@ -56,8 +56,5 @@ Maybe grab a drink and come chill with us!
 
 ----
 
-<p align='center'>
-  <img src="https://visitor-badge.glitch.me/badge?page_id=KarimX32" alt="visitor badge"/>
-</p>
-
+![visitor badge](https://visitor-badge.laobi.icu/badge?page_id=KarimX32&format=true)
 
