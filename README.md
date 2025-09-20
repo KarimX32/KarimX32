@@ -56,5 +56,7 @@ Maybe grab a drink and come chill with us!
 
 ----
 
-![visitor badge](https://visitor-badge.laobi.icu/badge?page_id=KarimX32&format=true)
+<p align='center'>
+  Enjoy my profile, don't hesitate to contact me if needed!
+</p>
 
